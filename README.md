@@ -9,7 +9,7 @@
 
 ## tech selects
     web framework:revel
-    db： boltdb
+    db： boltdb  or UnQLite
     frontend framework:  undetermined , maybe react or vue
 
 
