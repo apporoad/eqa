@@ -9,7 +9,7 @@
 
 ## tech selects
     web framework:revel
-    db： monogodb by default , you can use nedb
+    db： boltdb
     frontend framework:  undetermined , maybe react or vue
 
 
